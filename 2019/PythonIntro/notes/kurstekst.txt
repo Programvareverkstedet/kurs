@@ -1,0 +1,6 @@
+Kurstekst for introkurs i Python
+
+
+Har du lyst til å lære å programmere i Python? Synes du ITGK-forelesningene går for sent, eller ønsker du å pusse opp glemte kunnskaper?
+Da er dekke kurset for deg.
+Kurset går gjennom språkets oppbygging fra kommentarer til overlagring av operatorer, ingen forkunnskaper kreves.
